@@ -1,4 +1,4 @@
-# projeto-academico-CloudFlix
+# projeto-academico-em-andamento-CloudFlix
 # Bem-vindos ao CloudFlix: Catálogo de Filmes
 O CloudFlix é um projeto de demonstração criado para ilustrar os conceitos fundamentais do desenvolvimento web. Pense nele como o seu cinema digital pessoal. Mas, em vez de simplesmente assistir aos filmes, você vai entender como ele funciona por dentro.
 
